@@ -2,10 +2,10 @@
 This project is a simple currency converter web application that allows users to convert amounts between different currencies using the latest exchange rates from the Currency API. The app dynamically populates dropdowns with available currency codes, updates flags based on selected currencies, and displays the converted amount.
 
 <b>Features:-</b> 
-<ul>
+<ol>
     <li>Convert between different currencies using real-time exchange rates.</li>
     <li>View flags and currency codes for each country.</li>
-</ul>
+</ol>
 
 <b>Technology Used:-</b> 
 <ul>
